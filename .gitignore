@@ -1,0 +1,14 @@
+# Build and Release Folders
+
+# Other files and folders
+
+
+# node_modules 
+node_modules
+node_modules/*
+
+# Vim files 
+*.swp
+*.swo
+*.swn
+

@@ -1,0 +1,29 @@
+{
+  "name": "rollingout",
+  "version": "0.5.0",
+  "description": "single page application project template",
+  "main": "index.js",
+  "dependencies": {
+    "config": "~0.4.35",
+    "mocha": "~1.18.2",
+    "express": "~3.5.1",
+    "assert": "~1.1.1",
+    "gulp": "~3.6.0",
+    "gulp-util": "~2.2.14",
+    "gulp-watch": "~0.5.3",
+    "gulp-livereload": "~1.2.0",
+    "moment": "^2.5.1"
+  },
+  "bin": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:feng92f/rollingout.git"
+  },
+  "author": "Frank <navy92f@gmail.com>",
+  "license": "MIT"
+}
