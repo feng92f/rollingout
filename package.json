@@ -5,14 +5,21 @@
   "main": "index.js",
   "dependencies": {
     "config": "~0.4.35",
+    "yaml": "*",
     "mocha": "~1.18.2",
     "express": "~3.5.1",
     "assert": "~1.1.1",
     "gulp": "~3.6.0",
+    "gulp-rjs": "0.1",
+    "gulp-concat": "*",
+    "gulp-html-replace": "*",
     "gulp-util": "~2.2.14",
     "gulp-watch": "~0.5.3",
     "gulp-livereload": "~1.2.0",
-    "moment": "^2.5.1"
+    "moment": "^2.5.1",
+    "requirejs": "^2.1.11",
+    "shelljs": "^0.2.6",
+    "async": "^0.7.0"
   },
   "bin": {},
   "devDependencies": {},
